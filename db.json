@@ -3,8 +3,7 @@
     { "id": 1, "ResName": "Guru Kripa", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100}},
     { "id": 2, "ResName": "Fry Guys", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100, "Aaloo Paratha (Potato Paratha)":1000}},
     { "id": 3, "ResName": "FindFryGuys", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100,"Hara Bhara Kabab (Vegetarian Kabab)":400}},
-    { "id": 4, "ResName": "Apna Sweets", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100,}}
-    
+    { "id": 4, "ResName": "Apna Sweets", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100}}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
