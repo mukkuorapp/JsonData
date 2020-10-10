@@ -1,7 +1,7 @@
 {
   "Restaurant": [
     { "id": 1, "ResName": "Guru Kripa", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100}},
-    { "id": 2, "ResName": "Fry Guys", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100, "Aaloo Paratha (Potato Paratha)":1000}},
+    { "id": 2, "ResName": "Fry Guys", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100, "Aaloo Paratha (Potato Paratha)":1000,"Potato Chips":50, "Jo bhi Khao":500,"Potato Crips":400, "Aloo Pratha":60, "Aloo Ki Sabji": 850, "Mehthi Paratha":70, "Paneer Tikka":89, "Paneer Fry":99,"Lollipop Veg":89}},
     { "id": 3, "ResName": "FindFryGuys", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100,"Hara Bhara Kabab (Vegetarian Kabab)":400}},
     { "id": 4, "ResName": "Apna Sweets", "Menu":{"Ice-Cream":250,"Malai Kofta (Veggie Balls in a Thick Sauce)":400,"Palak Paneer (Spinach and Cottage Cheese)":250, "Rajma (Red Kidney Bean Curry)":100}}
   ],
